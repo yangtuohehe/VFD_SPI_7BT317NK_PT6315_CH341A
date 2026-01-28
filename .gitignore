@@ -1,0 +1,10 @@
+# 默认忽略的文件
+/shelf/
+/.idea/workspace.xml
+
+# 构建产物
+/build/
+/dist/
+*.spec
+# 资料文件夹（如原始数据、说明文档等）
+/资料/
