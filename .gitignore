@@ -1,7 +1,7 @@
 # 默认忽略的文件
 /shelf/
 /.idea/workspace.xml
-
+.idea/
 # 构建产物
 /build/
 /dist/
